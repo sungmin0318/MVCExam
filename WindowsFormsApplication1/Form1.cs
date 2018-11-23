@@ -21,5 +21,10 @@ namespace WindowsFormsApplication1
         {
             MessageBox.Show("오준환");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("하성민");
+        }
     }
 }
